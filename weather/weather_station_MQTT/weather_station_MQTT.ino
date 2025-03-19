@@ -3,8 +3,8 @@
 #include <DHT.h>
 
 // WiFi Credentials
-const char* ssid = "Benax-POP8A";
-const char* password = "ben@kushi";
+const char* ssid = "RCA-A";
+const char* password = "RCA@2024";
 
 // MQTT Broker (VPS)
 const char* mqtt_server = "157.173.101.159";  // Replace with your VPS IP
